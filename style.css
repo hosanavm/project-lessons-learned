@@ -5,4 +5,20 @@ body {
 #cabecalho {
     position: fixed;
     top: 0;
+    padding: auto;
+    width: 100%;
+}
+
+#nave {
+    margin-top: 100px;
+}
+  
+table {
+    width: 75%;
+    margin: auto;
+}
+  
+table, th, td {
+    margin-top: 10%;
+    border: 2px rgb(26, 23, 23) solid;
 }
